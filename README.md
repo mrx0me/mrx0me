@@ -22,7 +22,7 @@ clear report with proof of concept and remediation guidance.
 
 | Achievement | Impact |
 |-------------|--------|
-| 🔴 **ZTE MF923V1** | Unauthenticated syslog disclosure (CVE-style) |
+| 🔴 **ZTE MF923V1** | Unauthenticated syslog disclosure |
 | 🔴 **Airtel 4G Pocket WiFi** | Admin authentication bypass |
 | 🛡️ **Cisco Ethical Hacker** | Certified + 4 other Cisco certs |
 
